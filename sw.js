@@ -1,4 +1,4 @@
-const BUILD = 'f7d269f987f4';
+const BUILD = '32d8f935db1f';
 const CACHE = `color-sort-${BUILD}`;
 const ASSETS = ['index.html', 'manifest.webmanifest', 'levels.json', 'icon-192.png', 'icon-512.png'];
 self.addEventListener('install', event => {
